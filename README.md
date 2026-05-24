@@ -7,15 +7,7 @@ Passionate about building scalable infrastructure, automating workflows, and lea
 ---
 
 ☁️ Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-purple)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Linux](https://img.shields
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narendraboonaboina-code&show_icons=true)
 
 
 ---
@@ -28,18 +20,15 @@ Passionate about building scalable infrastructure, automating workflows, and lea
 - Gained hands-on experience in CI/CD workflows
 - Learned cloud and infrastructure management fundamentals
 
-
 📌 Academic Project
 
 **Smart Bot for Face Recognition and Voice Command control robot**
 
 Developed a robot capable of recognizing faces and responding to voice commands controls, enhancing automation and intelligent interaction.
 
-
 🎯 Career Objective
 
 Seeking an entry-level DevOps Engineer role where I can contribute, learn from experienced professionals, and grow into a skilled Cloud & DevOps Engineer.
-
 
 🌱 Currently Learning
 
@@ -47,7 +36,5 @@ Seeking an entry-level DevOps Engineer role where I can contribute, learn from e
 - Cloud Technologies (AWS/Azure)
 - Infrastructure as Code
 - DevOps Best Practices
-
-
 
 ⭐ Always eager to learn, build, and automate.
