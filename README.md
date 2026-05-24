@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi, I'm Narendra Bonaboina
 
-<!--
-**narendraboonaboina-code/narendraboonaboina-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building scalable infrastructure, automating workflows, and learning modern DevOps practices. Continuously improving my skills in Cloud, CI/CD, Containerization, and Infrastructure Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+☁️ Tech Stack
+
+🔹 Linux  
+🔹 Git & GitHub  
+🔹 Jenkins (CI/CD)  
+🔹 Docker  
+🔹 Kubernetes  
+🔹 Terraform  
+
+---
+
+ 💼 Internship Experience
+
+**DevOps Cloud Automation Internship**
+
+- Worked with DevOps tools and automation concepts
+- Gained hands-on experience in CI/CD workflows
+- Learned cloud and infrastructure management fundamentals
+
+
+📌 Academic Project
+
+**Smart Bot for Face Recognition and Voice Command control**
+
+Developed a robot capable of recognizing faces and responding to voice commands controls, enhancing automation and intelligent interaction.
+
+
+🎯 Career Objective
+
+Seeking an entry-level DevOps Engineer role where I can contribute, learn from experienced professionals, and grow into a skilled Cloud & DevOps Engineer.
+
+
+🌱 Currently Learning
+
+- Advanced Kubernetes
+- Cloud Technologies (AWS/Azure)
+- Infrastructure as Code
+- DevOps Best Practices
+
+
+
+⭐ Always eager to learn, build, and automate.
+
