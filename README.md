@@ -28,7 +28,7 @@ Passionate about building scalable infrastructure, automating workflows, and lea
 
 📌 Academic Project
 
-**Smart Bot for Face Recognition and Voice Command control**
+**Smart Bot for Face Recognition and Voice Command control robot**
 
 Developed a robot capable of recognizing faces and responding to voice commands controls, enhancing automation and intelligent interaction.
 
