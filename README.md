@@ -6,9 +6,17 @@ Passionate about building scalable infrastructure, automating workflows, and lea
 
 ---
 
-☁️ Tech Stack
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narendraboonaboina-code&show_icons=true)
+☁️ Cloud & DevOps Stack
 
+☁️ AWS  
+☁️ Azure  
+☁️ GCP  
+🐧 Linux  
+🔧 Git & GitHub  
+🚀 Jenkins  
+🐳 Docker  
+☸️ Kubernetes  
+🏗️ Terraform
 
 ---
 
