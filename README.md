@@ -8,12 +8,15 @@ Passionate about building scalable infrastructure, automating workflows, and lea
 
 ☁️ Tech Stack
 
-🔹 Linux  
-🔹 Git & GitHub  
-🔹 Jenkins (CI/CD)  
-🔹 Docker  
-🔹 Kubernetes  
-🔹 Terraform  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-purple)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
+![Linux](https://img.shields
+
+
 
 ---
 
@@ -48,27 +51,3 @@ Seeking an entry-level DevOps Engineer role where I can contribute, learn from e
 
 
 ⭐ Always eager to learn, build, and automate.
-# Hi 👋, I'm Narendra
-
-## 🚀 DevOps Engineer
-
-### ☁️ Cloud & DevOps Stack
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-purple)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
-![Linux](https://img.shields.io/badge/Linux-OS-black)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-
-## 🔥 What I Do
-
-- Build CI/CD Pipelines
-- Containerization using Docker
-- Kubernetes Deployment
-- Infrastructure as Code with Terraform
-- Linux Administration
-- Cloud Automation
-
